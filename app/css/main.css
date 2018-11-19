@@ -1,4 +1,4 @@
-
+@charset "UTF-8";
 /*Основной файл*/
 * {
   margin: 0;
@@ -24,4 +24,8 @@ a {
 
 li {
   list-style-type: none;
+}
+
+body {
+  background-color: skyblue;
 }

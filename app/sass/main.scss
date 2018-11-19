@@ -1,0 +1,25 @@
+/*Основной файл*/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transition: 0.5s;
+}
+img {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+a {
+	text-decoration: none;
+}
+li {
+	list-style-type: none;
+}
+body {
+	background-color: skyblue;
+}
